@@ -1,38 +1,72 @@
-<h1 align="center">Hi 👋, I'm Guru</h1>
-<h3 align="center">Co-Founder & Director, Business Operations, Nexenstial 💼 I'm 💻 Techprenuer &  FanBoy</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjan-h&label=Profile%20views&color=0e75b6&style=flat" alt="niranjan-h" /> </p>
+# Hi, I'm Guru 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niranjan-h" alt="niranjan-h" /></a> </p>
+### Co-Founder & Director of Business Operations at [Nexenstial LLP](https://github.com/nexenstial-llp)
 
-<p align="left"> <a href="https://twitter.com/guru_nex" target="blank"><img src="https://img.shields.io/twitter/follow/guru_nex?logo=twitter&style=for-the-badge" alt="guru_nex" /></a> </p>
+**Techpreneur • Builder • AI/ML Learner**
 
-- 🔭 I’m currently working on [ERP Solutions for Universities](https://github.com/nexenstial-llp)
+Building B2B SaaS for retail & logistics — leading technical development across RetailXpress and Pocket Parcel.
 
-- 🌱 I’m currently learning **React.js, Node.js**
+<a href="https://linkedin.com/in/guru-nex"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://twitter.com/guru_nex"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
+<a href="mailto:guru@nexenstial.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=niranjan-h&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 
-- 👯 I’m looking to collaborate on **Web 3.0**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/niranjan-h/](https://github.com/niranjan-h/)
+---
 
-- 💬 Ask me about **React.js, Node.js, AWS & MySQL**
+### About Me
 
-- 📫 How to reach me **guru@nexenstial.com**
+- 🏢 Co-founder of **Nexenstial LLP** — 150+ clients, based in Hubballi, India
+- 🔭 Leading **RetailXpress** (B2B retail ops/CRM for FMCG supply chains) & **Pocket Parcel** (logistics aggregation)
+- 🌱 Currently learning **Conversational AI** and diving deeper into **LLMs & fine-tuning**
+- 🏗️ Working on **multi-tenant SaaS architecture**, polyglot microservices, and infra scaling
+- 💬 Ask me about **Node.js, FastAPI, AWS, Docker, MySQL & Redis**
+- 📫 Reach me at **guru@nexenstial.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/guru_nex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guru_nex" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/guru-nex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guru-nex" height="30" width="40" /></a>
-<a href="https://fb.com/niraj.hiremath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niraj.hiremath" height="30" width="40" /></a>
-<a href="https://instagram.com/niranjan.inc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niranjan.inc" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/niranjan_h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="niranjan_h" height="30" width="40" /></a>
+---
+
+### Tech Stack
+
+**Languages**
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,java,c" alt="languages"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+**Backend & Frameworks**
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,react,nextjs,flutter" alt="backend"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niranjan-h&show_icons=true&locale=en&layout=compact" alt="niranjan-h" /></p>
+**Data & Infrastructure**
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,docker,aws,gcp,linux" alt="infra"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niranjan-h&show_icons=true&locale=en" alt="niranjan-h" /></p>
+**Tools**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,firebase,tensorflow" alt="tools"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niranjan-h&" alt="niranjan-h" /></p>
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=niranjan-h&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjan-h&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=niranjan-h&theme=tokyonight" alt="streak"/>
+
+</div>
+
+---
+
+<div align="center">
+<i>Empirically grounded. Simple by design. Always shipping.</i>
+</div>
