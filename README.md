@@ -4,7 +4,7 @@
 
 ### Co-Founder & Director of Business Operations at [Nexenstial LLP](https://github.com/nexenstial-llp)
 
-**Techpreneur • Builder • AI/ML Learner**
+**Techpreneur • Builder • AI/ML**
 
 Building B2B SaaS for retail & logistics — leading technical development across RetailXpress and Pocket Parcel.
 
